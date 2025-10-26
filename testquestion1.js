@@ -20,7 +20,6 @@ function setup(){
     background.x = width/2;
     background.y = height/2;
     background.layer = 0;
-
 }
 
 function draw(){
